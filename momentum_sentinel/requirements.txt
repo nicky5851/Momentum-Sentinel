@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+pandas_ta  # Technical Analysis library for professional indicators
+matplotlib
+pyyaml
+pyarrow    # For Parquet support
+quantstats # For professional-grade performance reports

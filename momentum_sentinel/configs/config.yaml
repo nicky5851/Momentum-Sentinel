@@ -1,0 +1,13 @@
+project_name: "Momentum Sentinel"
+assets:
+  ticker: "AAPL"
+  benchmark: "SPY"
+  
+backtest_params:
+  start_date: "2020-01-01"
+  end_date: "2024-01-01"
+  initial_capital: 10000
+
+strategy_params:
+  sma_fast: 50
+  sma_slow: 200
