@@ -1,8 +1,8 @@
 # Momentum Sentinel 🛡️
 
-**Professional Quantitative Backtesting Engine**
+**Quantitative Backtesting Engine**
 
-A modular, production-grade backtesting framework built in Python for analyzing Momentum strategies. This engine decouples data ingestion, feature engineering, and execution logic to ensure reproducible financial research.
+A modular, backtesting framework built in Python for analyzing Momentum strategies. This engine decouples data ingestion, feature engineering, and execution logic to ensure reproducible financial research.
 
 ## 🚀 Features
 
